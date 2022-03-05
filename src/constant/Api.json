@@ -1,0 +1,4 @@
+{
+    "baseUrl" : "https://apigwu.icicipruamc.com/v1/api/",
+    "encryptedJWT": "https://icici-pru-amc-dev.apigee.net/encrypted-jwt/generate_jwt"
+}
